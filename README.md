@@ -17,6 +17,9 @@ cd DjangoApp
 ## Create a new User
 
 Run ```python manage.py createsuperuser``` and follow commands.
+Or you can use this user to enter the admin page:
+Username: guest
+Password: guest123
 
 
 ## Technologies I used while designing the project:
