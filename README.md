@@ -4,6 +4,20 @@
 
 :point_up: **[Demo](https://django-polls-app1.herokuapp.com/) is available**
 
+:point_up: **[Admin Page](https://django-polls-app1.herokuapp.com/admin) You can create new questions here**
+
+## Download the project
+
+First, create a folder and run
+```
+git clone https://github.com/bedirhansahin/DjangoApp.git
+cd DjangoApp
+```
+
+## Create a new User
+
+Run ```python manage.py createsuperuser``` and follow commands.
+
 
 ## Technologies I used while designing the project:
 
